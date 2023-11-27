@@ -1,0 +1,32 @@
+CardItemDetail {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 70px;
+}
+
+.ItemImg2 {
+  height: 400px;
+  width: 280px;
+}
+
+.ItemFooter {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+}
+
+.ItemHeaderb {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.Info-details {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+}
+
+.Infob {
+  font-size: 16px;
+}

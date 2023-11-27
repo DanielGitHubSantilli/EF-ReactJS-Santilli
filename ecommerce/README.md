@@ -1,3 +1,16 @@
+Hola a todos!! Me presento: Soy Daniel Santilli, En lo personal: Felizmente casado, papá de dos niños, de 3 y 6 años. En lo Profesional: Soy Analista de Sistemas. Docente en el nivel secundario. En esta oportunidad, Estudiante de la Carrera Desarrollo Web Full Stack en la plataforma CODERHOUSE. Es una alegría poder estar capacitandome y que pueda servir como crecimiento personal además de poder desarrollarme Profesionalmente en el rubro.
+
+El presente trabajo lo realicé para una entidad de bien Público que pertenece a la ciudad donde vivo, en Mercedes (B):
+La empresa es CAIDIM. Empresa que le da trabajo a personas con Discapacidad Intelectual.
+
+Para poder realizarlo utilicé las siguientes librerías: Bulma, React, React-Bootstrap, React-Icons. También instale la librería axios para una posterior utilización.
+
+Para desarrollar el diseño de la navegación utilicé el componente NavBar de react-bootstrap.github.io, como así también Badges para el diseño de los botones de Agregar y restar la cantidad de productos, y para el botón de Agregar al Carrito.
+
+Para el uso de las imagenes utilicé la página PostImage para que las imagenes no sean muy pesadas y no peligre el commit ya que con esta página puedo obtener una URL para ulizarlas.
+
+Se puso en práctica el asincronismo para simular retardos de red.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

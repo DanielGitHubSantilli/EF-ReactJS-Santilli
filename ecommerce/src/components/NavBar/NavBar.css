@@ -1,0 +1,31 @@
+/* Estilos generales */
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Estilos para la barra de navegación */
+.navbar {
+  background-color: #f8f9fa;
+}
+
+.navbar-brand {
+  color: #007bff;
+}
+
+.nav-link {
+  color: #032b57;
+}
+
+/* Estilos para el dropdown */
+.dropdown-menu {
+  background-color: #f8f9fa;
+}
+
+.dropdown-item {
+  color: #00ff66;
+}
+
+/* Estilos para el widget del carrito */
+.cart-widget {
+  color: #ff0080;
+}

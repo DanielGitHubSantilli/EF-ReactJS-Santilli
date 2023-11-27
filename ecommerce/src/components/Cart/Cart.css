@@ -1,0 +1,42 @@
+/* Estilos para el contenedor del carrito */
+.cartcontainer {
+  width: 100%;
+  padding: 20px;
+  background-color: #f8f9fa;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+}
+
+/* Estilos para los items del carrito */
+.cart-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  padding: 10px;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+}
+
+/* Estilos para el total del carrito */
+.totalAmount {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: right;
+}
+
+/* Estilos para el link de productos */
+.Option {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  color: #fff;
+  background-color: #007bff;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.Option:hover {
+  background-color: #0056b3;
+}
