@@ -5,9 +5,6 @@ import { useParams } from 'react-router-dom'
 import { getDoc, doc} from "firebase/firestore"
 import { db } from "../../services/firebase/firebaseConfig"
 
-import firebase from 'firebase/app'
-import 'firebase/firestore'
-
 const ItemDetailContainer = () => {
     const [product, setProduct] = useState(null)
     const [loading, setLoading] = useState(true)

@@ -1,4 +1,4 @@
-Hola a todos!! Me presento: Soy Daniel Santilli, En lo personal: Felizmente casado, papá de dos niños, de 3 y 6 años. En lo Profesional: Soy Analista de Sistemas. Docente en el nivel secundario. En esta oportunidad, Estudiante de la Carrera Desarrollo Web Full Stack en la plataforma CODERHOUSE. Es una alegría poder estar capacitandome y que pueda servir como crecimiento personal además de poder desarrollarme Profesionalmente en el rubro.
+Hola a todos!! Me presento: Soy Daniel Santilli, En lo personal: Felizmente casado, papá de dos niños, de 3 y 6 años. En lo Profesional: Soy Analista de Sistemas. Docente en el nivel secundario de la materia de informática. En esta oportunidad, Estudiante de la Carrera Desarrollo Web Full Stack en la plataforma CODERHOUSE. Estoy muy contento en de poder transitar esta instancia de capacitación y que pueda servir como crecimiento personal además de poder desarrollarme Profesionalmente en el rubro.
 
 El presente trabajo lo realicé para una entidad de bien Público que pertenece a la ciudad donde vivo, en Mercedes (B):
 La empresa es CAIDIM. Empresa que le da trabajo a personas con Discapacidad Intelectual.
